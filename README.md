@@ -157,7 +157,7 @@ No known bugs at this time.
   
 Ezra Nobrega [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com)
 Justin Majetich [Github](https://github.com/justinmajetich) / [Twitter](https://twitter.com/justinmajetich)
-Samuel Egwu [Github] (https://github.com/dallintine) / [Twitter]( https://twitter.com/justinmajetich)
+Samuel Egwu [Github](https://github.com/dallintine) / [Twitter]( https://twitter.com/justinmajetich)
 
 Second part of Airbnb: Joann Vuong
 ## License
